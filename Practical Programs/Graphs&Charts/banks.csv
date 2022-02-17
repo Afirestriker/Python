@@ -1,0 +1,9 @@
+acno,cname,account_type,balance
+101,Acc1,Savings,7000
+102,Acc2,Recurring,2000
+103,Acc3,Savings,20000
+104,Acc4,Current,5000
+105,Acc5,Current,10000
+106,Acc6,Savings,25000
+107,Acc7,Recurring,10000
+108,Acc8,Current,30000

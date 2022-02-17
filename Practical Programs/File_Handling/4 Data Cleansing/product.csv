@@ -1,0 +1,6 @@
+pno,pname,pprice,qty
+101,pname1,100,10
+102,pname2,,20
+103,,300,30
+104,pname4,400,40
+102,pname2,,20
