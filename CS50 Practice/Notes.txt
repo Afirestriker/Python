@@ -1,0 +1,21 @@
+
+
+• Python is an interpreted language, i.e. if we are calling a function at line 5, and the function is define
+   at line 6, it will throw an exception.
+
+• In python the variable declared anywhere inside function is available to use in the whole funciton are it declaration.
+  i.e. suppose the function has a loop, inside the loop we create a variable var.
+  Now, as per the concept of 'C programming' the variable var cannot be access outside the loop, but
+   in case of 'Python programming' the variable var can be access outside the loop and in the whole function
+   after it has been define.
+
+• Python does not have pointers.
+
+• In Python, developer do not have to worry about cleaning up the memory, it is handle by python itself, as in 
+  Java, JavaScript.
+
+• In conventional way String is a colleciton of char array, but in more deeper role, the answer to this is NO.
+  Since string are now more of a object.
+
+• Pyton do not have support for increment / Decrement operator i.e. ++ / --
+
